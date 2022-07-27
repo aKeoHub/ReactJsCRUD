@@ -48,7 +48,7 @@ function App() {
 
             {userList.map((val, key) => {
                 return <div key={key} className="user">
-                    <h3>Username: {val.userName + ' Password: ' + val.password}</h3>
+                    <h3>Username: {val.username + ' Password: ' + val.password}</h3>
                 </div>
             })}
         </div>

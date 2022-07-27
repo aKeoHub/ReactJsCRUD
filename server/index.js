@@ -13,7 +13,6 @@ const db = mysql.createConnection({
 });
 
 app.post('/register', (req, res) => {
-
     const username = req.body.username;
     const password = req.body.password;
 
@@ -24,7 +23,6 @@ app.post('/register', (req, res) => {
                 console.log(err);
             } else {
                 console.log('Values inserted');
-
             }
         }
     );

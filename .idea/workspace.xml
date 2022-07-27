@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b167b719-d352-40f9-a959-f1ae1900ca23" name="Changes" comment="Changed to capstone db.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +132,7 @@
       <workItem from="1658634906907" duration="7441000" />
       <workItem from="1658696209971" duration="30000" />
       <workItem from="1658945524164" duration="607000" />
-      <workItem from="1658955221275" duration="249000" />
+      <workItem from="1658955221275" duration="1058000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented login page, trying to connect to the db with a sql statement.">
       <created>1655870263457</created>
