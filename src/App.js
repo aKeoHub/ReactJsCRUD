@@ -26,8 +26,6 @@ function App() {
     };
 
     return <div className="App">
-        <h1>LOGIN BABY</h1>
-
 
         <div className="registration">
             <h1>Registration</h1>
