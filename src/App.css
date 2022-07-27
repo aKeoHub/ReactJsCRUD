@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.registration {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.registration input {
+  width: 300px;
+  height: 60px;
+  margin: 10px;
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+ button {
+  width: 300px;
+  height: 50px;
+  margin-top: 15px;
+}
+
+ button:hover {
+  cursor: pointer
+}
+
+ .users {
+   display: flex;
+   align-items: center;
+   width: 100%;
+   flex-direction: column;
+
+ }
+
+ .user {
+     width: 700px;
+     height: auto;
+     border: 1px solid black;
+     margin: 10px;
+     display: flex;
+     padding: 10px;
+     font-family: monospace;
+ }
+
+ .user h3 {
+     margin: 20px;
+ }
+
